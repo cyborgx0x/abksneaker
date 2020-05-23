@@ -1,0 +1,16 @@
+{
+  "name": "dynamic-graph-viewer",
+  "version": "1.0.0",
+  "description": "Viewer for Dynamic Graph",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "keywords": [
+    "[\"dynamic\"",
+    "\"graph\"",
+    "\"viewer\""
+  ],
+  "author": "Cyborgx0x",
+  "license": "MIT"
+}
