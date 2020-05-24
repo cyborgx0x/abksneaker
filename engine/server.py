@@ -1,5 +1,4 @@
 from flask import Flask, render_template
-
 app = Flask(__name__, static_folder="../int/dist", template_folder="../int")
 import random
 
@@ -14,7 +13,10 @@ def get_hello():
 @app.route("/hello")
 def hello():
     return get_hello()
-	
+
+@app.route("/plot")
+def plot():
+    return "<div><img src='img/plot.svg'></div>"
 
 if __name__ == "__main__":
     app.run()
