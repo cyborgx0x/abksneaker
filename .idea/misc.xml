@@ -3,5 +3,8 @@
   <component name="ProjectPlainTextFileTypeManager">
     <file url="file://$PROJECT_DIR$/README.md" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8 (dynamic-graph)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.7 (dynamic-graph)" project-jdk-type="Python SDK" />
+  <component name="PyCharmProfessionalAdvertiser">
+    <option name="shown" value="true" />
+  </component>
 </project>
