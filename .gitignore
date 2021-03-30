@@ -11,3 +11,4 @@ dynamicgraph
 # Docker
 Dockerfile
 docker-compose.yml
+*.venv
